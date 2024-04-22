@@ -1,0 +1,45 @@
+{
+    "name": "DevilutionX",
+    "subtitle": "DevilutionX unofficial AltStore source.",
+    "description": "An unofficial AltStore source for DevilutionX.",
+    "iconURL": "https://raw.githubusercontent.com/diasurgical/devilutionX/master/Packaging/resources/icon.png",
+    "website": "https://github.com/diasurgical/devilutionX",
+    "tintColor": "#000000",
+    "apps": [
+        {
+            "name": "DevilutionX",
+            "bundleIdentifier": "com.diasurgical.devilutionx",
+            "developerName": "Diasurgical team",
+            "subtitle": "Diablo build for modern operating systems.",
+            "localizedDescription": "DevilutionX is a port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features.",
+            "iconURL": "https://raw.githubusercontent.com/diasurgical/devilutionX/master/Packaging/resources/icon.png",
+            "tintColor": "#000000",
+            "screenshots": [
+                {
+                    "imageURL": "https://user-images.githubusercontent.com/204594/113578478-26912400-9623-11eb-9ff6-9bd9717462b6.png",
+                    "width": 838,
+                    "height": 480
+                }
+            ],
+            "versions": [
+                {
+                    "version": "1.5.2",
+                    "date": "2024-02-05T07:46:00-00:00",
+                    "size": 7887923,
+                    "downloadURL": "https://github.com/diasurgical/devilutionX/releases/download/1.5.2/devilutionx-iOS.ipa",
+                    "localizedDescription": "New features and bug fixes."
+                }
+            ]
+        }
+    ],
+    "news": [
+        {
+            "title": "DevilutionX now on AltStore!",
+            "identifier": "devilutionx-1.5.2",
+            "caption": "Introducing DevilutionX 1.5.2 to Altstore.",
+            "date": "2024-04-22",
+            "tintColor": "#000000",
+            "notify": true
+        }
+    ]
+}
